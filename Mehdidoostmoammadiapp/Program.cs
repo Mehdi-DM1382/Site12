@@ -12,7 +12,7 @@ namespace Mehdidoostmoammadiapp
         {
             int a = Convert.ToInt32( Console.ReadLine());
             int b = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine(a+b);
+            Console.WriteLine(b);
             Console.ReadKey();
             Console.ReadKey();
 
