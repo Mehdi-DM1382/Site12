@@ -1,0 +1,8 @@
+D:\Mehdidoostmoammadiapp\Mehdidoostmoammadiapp\bin\Debug\Mehdidoostmoammadiapp.exe.config
+D:\Mehdidoostmoammadiapp\Mehdidoostmoammadiapp\bin\Debug\Mehdidoostmoammadiapp.exe
+D:\Mehdidoostmoammadiapp\Mehdidoostmoammadiapp\bin\Debug\Mehdidoostmoammadiapp.pdb
+D:\Mehdidoostmoammadiapp\Mehdidoostmoammadiapp\obj\Debug\Mehdidoostmoammadiapp.csproj.AssemblyReference.cache
+D:\Mehdidoostmoammadiapp\Mehdidoostmoammadiapp\obj\Debug\Mehdidoostmoammadiapp.csproj.SuggestedBindingRedirects.cache
+D:\Mehdidoostmoammadiapp\Mehdidoostmoammadiapp\obj\Debug\Mehdidoostmoammadiapp.csproj.CoreCompileInputs.cache
+D:\Mehdidoostmoammadiapp\Mehdidoostmoammadiapp\obj\Debug\Mehdidoostmoammadiapp.exe
+D:\Mehdidoostmoammadiapp\Mehdidoostmoammadiapp\obj\Debug\Mehdidoostmoammadiapp.pdb
